@@ -1,0 +1,166 @@
+{
+  "code": "SHINHAN",
+  "title": "SMASH SHINHAN",
+  "school": "신한대",
+  "fullName": "신한대학교",
+  "campusName": "신한대학교 의정부캠퍼스",
+  "tagline": "신한대를 부셔 (시험기간 스트레스 해소)",
+  "description": "신한대학교 의정부캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 신한대학교 의정부캠퍼스 3D 화면과 SMASH SHINHAN 제목",
+  "url": "https://hong-iron.github.io/SMASH-SHINHAN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 472478830
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/472478845",
+      "n": "경기벤처창업지원센터",
+      "why": "학교 건물 아님 — 경기도경제과학진흥원이 운영하는 경기벤처창업지원센터(망월로 18-26, 별도 대지 119-151)"
+    },
+    {
+      "at": [
+        37.7085774,
+        127.0457424
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 남쪽 골목에 늘어선 파란 지붕 단독주택(망월로 14-29, 주택 땅 119-234)"
+    },
+    {
+      "at": [
+        37.7109503,
+        127.0458433
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 호암로109번길 주택가 끝에 있는 단층 건물의 동쪽 절반(호암로109번길 27)"
+    },
+    {
+      "at": [
+        37.710953,
+        127.0457244
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 같은 단층 건물의 서쪽 절반(호암로109번길 27)"
+    },
+    {
+      "at": [
+        37.708633,
+        127.0443003
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 벤처창업지원센터 주차장 남쪽 끝의 파란 지붕 창고(같은 대지 119-151)"
+    },
+    {
+      "at": [
+        37.7101607,
+        127.042194
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 산림 땅(산99-6 임)의 잔해 더미 옆이라 사진에 굴착기와 흙더미만 있고 지붕이 없음"
+    },
+    {
+      "at": [
+        37.7108154,
+        127.0445667
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 호암로109번길 53 주택에 딸린 회색 지붕 부속 건물로, 학교 축대 위에 걸쳐 있음"
+    },
+    {
+      "at": [
+        37.7096223,
+        127.0433396
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 기도관 남쪽 주차장 자리라 사진에 차와 나무만 있고 건물이 없음"
+    },
+    {
+      "at": [
+        37.7085513,
+        127.0459148
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 골목 주택가의 청록 지붕 집(망월로 14-31)"
+    },
+    {
+      "at": [
+        37.7085902,
+        127.0458529
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 같은 집(망월로 14-31)에 딸린 단층 건물로, 경계 밖 주택가에 있음"
+    }
+  ],
+  "look": {
+    "은혜관": {
+      "style": "stone",
+      "wall": "#c6c3c3",
+      "glass": "#5f8ea6",
+      "frame": "#a6a5a3"
+    },
+    "에벤에셀관": {
+      "style": "glass",
+      "wall": "#d4d6d0",
+      "glass": "#5d8597",
+      "frame": "#c9cbc8"
+    },
+    "벧엘관": {
+      "style": "glass",
+      "wall": "#bab6b2",
+      "glass": "#2f373a",
+      "frame": "#828183"
+    },
+    "기도관": {
+      "style": "ribbon",
+      "wall": "#d9c2b6",
+      "glass": "#6a7c92",
+      "frame": "#b9a89e"
+    },
+    "행함관": {
+      "style": "glass",
+      "wall": "#b3bfcb",
+      "glass": "#6f93a0",
+      "frame": "#c9d1d8"
+    },
+    "말씀관": {
+      "style": "brick",
+      "wall": "#744f43",
+      "glass": "#7d918f",
+      "frame": "#ebe8e2"
+    },
+    "진리관": {
+      "style": "brick",
+      "wall": "#545253",
+      "glass": "#2a2d30",
+      "frame": "#beb7ae"
+    },
+    "빛과소금관": {
+      "style": "stone",
+      "wall": "#dcdde4",
+      "glass": "#4d5866",
+      "frame": "#42627e"
+    },
+    "믿음관": {
+      "style": "glass",
+      "wall": "#e8ebee",
+      "glass": "#557d9c",
+      "frame": "#c5c7cb"
+    },
+    "카르멜1관": {
+      "style": "ribbon",
+      "wall": "#4f5865",
+      "glass": "#49677e",
+      "frame": "#b4bcc8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
