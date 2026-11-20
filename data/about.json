@@ -1,0 +1,34 @@
+{
+ "region": "경기 의정부시 호원동",
+ "nameEn": "Shinhan University",
+ "added": "2026-10-27T21:00",
+ "rank": 191,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KYUNGMIN",
+   "campus": "경민대학교",
+   "km": 4.5
+  },
+  {
+   "code": "DUKSUNG",
+   "campus": "덕성여자대학교 쌍문캠퍼스",
+   "km": 6.8
+  },
+  {
+   "code": "KBU",
+   "campus": "한국성서대학교",
+   "km": 7.0
+  },
+  {
+   "code": "SUNGSHIN-UNJEONG",
+   "campus": "성신여자대학교 미아운정그린캠퍼스",
+   "km": 8.7
+  },
+  {
+   "code": "INDUK",
+   "campus": "인덕대학교",
+   "km": 8.7
+  }
+ ]
+}
